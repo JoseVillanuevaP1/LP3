@@ -3,6 +3,7 @@
     <title>Bienvenido a Index</title>
 </head>
 <body>
-    <h1>BIENVENIDOS .. AL SISTEMA</h1>
+    BIENVENIDOS .. AL SISTEMA
+    JOSE VILLANUEVA
 </body>
 </html>
